@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Devfest/static/css/main.ee5727db.chunk.css",
+    "main.js": "/Devfest/static/js/main.d1e7dcfc.chunk.js",
+    "main.js.map": "/Devfest/static/js/main.d1e7dcfc.chunk.js.map",
+    "runtime-main.js": "/Devfest/static/js/runtime-main.11bc0bf1.js",
+    "runtime-main.js.map": "/Devfest/static/js/runtime-main.11bc0bf1.js.map",
+    "static/js/2.97228cac.chunk.js": "/Devfest/static/js/2.97228cac.chunk.js",
+    "static/js/2.97228cac.chunk.js.map": "/Devfest/static/js/2.97228cac.chunk.js.map",
+    "static/js/3.17070c9d.chunk.js": "/Devfest/static/js/3.17070c9d.chunk.js",
+    "static/js/3.17070c9d.chunk.js.map": "/Devfest/static/js/3.17070c9d.chunk.js.map",
+    "index.html": "/Devfest/index.html",
+    "static/css/main.ee5727db.chunk.css.map": "/Devfest/static/css/main.ee5727db.chunk.css.map",
+    "static/js/2.97228cac.chunk.js.LICENSE.txt": "/Devfest/static/js/2.97228cac.chunk.js.LICENSE.txt",
+    "static/media/logo.ce334db8.png": "/Devfest/static/media/logo.ce334db8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11bc0bf1.js",
+    "static/js/2.97228cac.chunk.js",
+    "static/css/main.ee5727db.chunk.css",
+    "static/js/main.d1e7dcfc.chunk.js"
+  ]
+}

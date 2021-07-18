@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/DevFest/static/css/main.ee5727db.chunk.css",
-    "main.js": "/DevFest/static/js/main.d1e7dcfc.chunk.js",
-    "main.js.map": "/DevFest/static/js/main.d1e7dcfc.chunk.js.map",
-    "runtime-main.js": "/DevFest/static/js/runtime-main.6e86af84.js",
-    "runtime-main.js.map": "/DevFest/static/js/runtime-main.6e86af84.js.map",
-    "static/js/2.97228cac.chunk.js": "/DevFest/static/js/2.97228cac.chunk.js",
-    "static/js/2.97228cac.chunk.js.map": "/DevFest/static/js/2.97228cac.chunk.js.map",
-    "static/js/3.17070c9d.chunk.js": "/DevFest/static/js/3.17070c9d.chunk.js",
-    "static/js/3.17070c9d.chunk.js.map": "/DevFest/static/js/3.17070c9d.chunk.js.map",
+    "main.css": "/DevFest/static/css/main.643e7a28.chunk.css",
+    "main.js": "/DevFest/static/js/main.8d70de68.chunk.js",
+    "main.js.map": "/DevFest/static/js/main.8d70de68.chunk.js.map",
+    "runtime-main.js": "/DevFest/static/js/runtime-main.676b6033.js",
+    "runtime-main.js.map": "/DevFest/static/js/runtime-main.676b6033.js.map",
+    "static/css/2.455652b6.chunk.css": "/DevFest/static/css/2.455652b6.chunk.css",
+    "static/js/2.7c9b399e.chunk.js": "/DevFest/static/js/2.7c9b399e.chunk.js",
+    "static/js/2.7c9b399e.chunk.js.map": "/DevFest/static/js/2.7c9b399e.chunk.js.map",
+    "static/js/3.6c034a6f.chunk.js": "/DevFest/static/js/3.6c034a6f.chunk.js",
+    "static/js/3.6c034a6f.chunk.js.map": "/DevFest/static/js/3.6c034a6f.chunk.js.map",
     "index.html": "/DevFest/index.html",
-    "static/css/main.ee5727db.chunk.css.map": "/DevFest/static/css/main.ee5727db.chunk.css.map",
-    "static/js/2.97228cac.chunk.js.LICENSE.txt": "/DevFest/static/js/2.97228cac.chunk.js.LICENSE.txt",
+    "static/css/2.455652b6.chunk.css.map": "/DevFest/static/css/2.455652b6.chunk.css.map",
+    "static/css/main.643e7a28.chunk.css.map": "/DevFest/static/css/main.643e7a28.chunk.css.map",
+    "static/js/2.7c9b399e.chunk.js.LICENSE.txt": "/DevFest/static/js/2.7c9b399e.chunk.js.LICENSE.txt",
+    "static/media/background.7cefe758.png": "/DevFest/static/media/background.7cefe758.png",
     "static/media/logo.ce334db8.png": "/DevFest/static/media/logo.ce334db8.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6e86af84.js",
-    "static/js/2.97228cac.chunk.js",
-    "static/css/main.ee5727db.chunk.css",
-    "static/js/main.d1e7dcfc.chunk.js"
+    "static/js/runtime-main.676b6033.js",
+    "static/css/2.455652b6.chunk.css",
+    "static/js/2.7c9b399e.chunk.js",
+    "static/css/main.643e7a28.chunk.css",
+    "static/js/main.8d70de68.chunk.js"
   ]
 }

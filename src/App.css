@@ -1,0 +1,11 @@
+:root {
+
+   /*     CSS style variables     */
+
+   --primary: #181818;
+   --secondary: #ffffff;
+   --tertiary: #4452fe;
+   -card:#343434;
+   --font-family: 'Roboto';
+   --font-size-header: 40px;
+}

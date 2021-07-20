@@ -1,0 +1,21 @@
+.container {
+    --text-color: #FFF;
+    margin-top: 10rem;
+    padding: 25px;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    .links {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        width: fit-content;
+    }
+    .contactUs {
+        display: flex;
+        flex-direction: column;
+        justify-content: right;
+        width: fit-content;
+    }
+}

@@ -11,6 +11,7 @@ import Team from './sections/Team/Team';
 import FAQ from './sections/FAQ/FAQ';
 import { Bg } from './sections/Homepage/Bg';
 import { Timeline } from './sections/Timeline/Timeline';
+import Prizes from './sections/Prizes/Prizes';
 // import Speakers from './sections/Speakers/Speakers';
 
 function App() {
@@ -30,6 +31,7 @@ function App() {
          >
             <Timeline />
             <Technology />
+            <Prizes />
             <Sponsors />
             <Team />
             <Devfest />

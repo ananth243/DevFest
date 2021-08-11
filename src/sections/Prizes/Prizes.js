@@ -129,7 +129,7 @@ class Prizes extends React.Component {
             <div className={Styles.prizeCardsContainer}>{prizes}</div>
             <span className={Styles.internshipDisclaimer}>
                * Only for teams who attempt the FinTech problem (for Zeta) and
-               creator problem (for Qoohoo) statement provided by Zeta Suite
+               creator problem (for Qoohoo)
             </span>
             <h4 className={Styles.subHeading}>Special Prizes</h4>
             <div className={Styles.prizeCardsContainer}>{specialPrizes}</div>

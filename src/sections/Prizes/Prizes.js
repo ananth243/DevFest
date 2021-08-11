@@ -7,8 +7,9 @@ class Prizes extends React.Component {
          {
             recipient: 'Winner',
             items: [
-               'Cash prize of Rs 20k.',
+               'Cash prize of Rs 15k.',
                'Internship Opportunity at Zeta Suite(Unicorn) for every team member *',
+               'Internship Opportunity at Qoohoo for every team member *',
                '.XYZ Domains for all team members.',
                'Certificate of Excellence',
                'Premium swag kits',
@@ -25,6 +26,7 @@ class Prizes extends React.Component {
             items: [
                'Cash prize of Rs 10k',
                'Internship Opportunity at Zeta Suite(Unicorn) for every team member *',
+               'Internship Opportunity at Qoohoo for every team member *',
                '.XYZ Domains for all team members.',
                'Certificate of Excellence',
                'Premium swag kits',
@@ -40,6 +42,7 @@ class Prizes extends React.Component {
             items: [
                'Cash prize of Rs 5k',
                'Internship Opportunity at Zeta Suite(Unicorn) for every team member *',
+               'Internship Opportunity at Qoohoo for every team member *',
                '.XYZ Domains for all team members.',
                'Certificate of Excellence',
                'Premium swag kits',
@@ -125,8 +128,8 @@ class Prizes extends React.Component {
             <h2>Prizes</h2>
             <div className={Styles.prizeCardsContainer}>{prizes}</div>
             <span className={Styles.internshipDisclaimer}>
-               * Only for teams who attempt the FinTech problem statement
-               provided by Zeta Suite
+               * Only for teams who attempt the FinTech problem (for Zeta) and
+               creator problem (for Qoohoo) statement provided by Zeta Suite
             </span>
             <h4 className={Styles.subHeading}>Special Prizes</h4>
             <div className={Styles.prizeCardsContainer}>{specialPrizes}</div>
